@@ -1,0 +1,14 @@
+D:\AA\projects_C#\Fase3MaycolMuñoz\Fase3MaycolMuñoz\bin\Debug\Fase3MaycolMuñoz.exe.config
+D:\AA\projects_C#\Fase3MaycolMuñoz\Fase3MaycolMuñoz\bin\Debug\Fase3MaycolMuñoz.exe
+D:\AA\projects_C#\Fase3MaycolMuñoz\Fase3MaycolMuñoz\bin\Debug\Fase3MaycolMuñoz.pdb
+D:\AA\projects_C#\Fase3MaycolMuñoz\Fase3MaycolMuñoz\obj\Debug\Fase3MaycolMuñoz.csproj.AssemblyReference.cache
+D:\AA\projects_C#\Fase3MaycolMuñoz\Fase3MaycolMuñoz\obj\Debug\Fase3MaycolMuñoz.Form1.resources
+D:\AA\projects_C#\Fase3MaycolMuñoz\Fase3MaycolMuñoz\obj\Debug\Fase3MaycolMuñoz.Properties.Resources.resources
+D:\AA\projects_C#\Fase3MaycolMuñoz\Fase3MaycolMuñoz\obj\Debug\Fase3MaycolMuñoz.csproj.GenerateResource.cache
+D:\AA\projects_C#\Fase3MaycolMuñoz\Fase3MaycolMuñoz\obj\Debug\Fase3MaycolMuñoz.csproj.CoreCompileInputs.cache
+D:\AA\projects_C#\Fase3MaycolMuñoz\Fase3MaycolMuñoz\obj\Debug\Fase3MaycolMuñoz.exe
+D:\AA\projects_C#\Fase3MaycolMuñoz\Fase3MaycolMuñoz\obj\Debug\Fase3MaycolMuñoz.pdb
+D:\AA\projects_C#\Fase3MaycolMuñoz\Fase3MaycolMuñoz\obj\Debug\Fase3MaycolMuñoz.MenuOpciones.resources
+D:\AA\projects_C#\Fase3MaycolMuñoz\Fase3MaycolMuñoz\obj\Debug\Fase3MaycolMuñoz.BoleraRobles.resources
+D:\AA\projects_C#\Fase3MaycolMuñoz\Fase3MaycolMuñoz\obj\Debug\Fase3MaycolMuñoz.LosMillenials.resources
+D:\AA\projects_C#\Fase3MaycolMuñoz\Fase3MaycolMuñoz\obj\Debug\Fase3MaycolMuñoz.SanarteYa.resources

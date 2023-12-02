@@ -1,0 +1,4 @@
+cedula,clave,nombre,edad,puntos,saldo,retirado,fechaRetirado
+abc,112,estiven munoz,22,0,5768479,1000,21/05/2023 11:41:26 a. m.
+def,113,juan cardenas,32,543,100000,0,18/05/2023 12:00:00 a. m.
+ghi,114,balan ozumandyas,25,0,201001,0,18/05/2023 12:00:00 a. m.

@@ -1,0 +1,13 @@
+D:\AA\projects_C#\Fase4MaycolMuñoz\Fase4MaycolMuñoz\bin\Debug\Fase4MaycolMuñoz.exe.config
+D:\AA\projects_C#\Fase4MaycolMuñoz\Fase4MaycolMuñoz\bin\Debug\Fase4MaycolMuñoz.exe
+D:\AA\projects_C#\Fase4MaycolMuñoz\Fase4MaycolMuñoz\bin\Debug\Fase4MaycolMuñoz.pdb
+D:\AA\projects_C#\Fase4MaycolMuñoz\Fase4MaycolMuñoz\obj\Debug\Fase4MaycolMuñoz.csproj.AssemblyReference.cache
+D:\AA\projects_C#\Fase4MaycolMuñoz\Fase4MaycolMuñoz\obj\Debug\Fase4MaycolMuñoz.Form1.resources
+D:\AA\projects_C#\Fase4MaycolMuñoz\Fase4MaycolMuñoz\obj\Debug\Fase4MaycolMuñoz.Properties.Resources.resources
+D:\AA\projects_C#\Fase4MaycolMuñoz\Fase4MaycolMuñoz\obj\Debug\Fase4MaycolMuñoz.csproj.GenerateResource.cache
+D:\AA\projects_C#\Fase4MaycolMuñoz\Fase4MaycolMuñoz\obj\Debug\Fase4MaycolMuñoz.csproj.CoreCompileInputs.cache
+D:\AA\projects_C#\Fase4MaycolMuñoz\Fase4MaycolMuñoz\obj\Debug\Fase4MaycolMuñoz.exe
+D:\AA\projects_C#\Fase4MaycolMuñoz\Fase4MaycolMuñoz\obj\Debug\Fase4MaycolMuñoz.pdb
+D:\AA\projects_C#\Fase4MaycolMuñoz\Fase4MaycolMuñoz\obj\Debug\Fase4MaycolMuñoz.Escenario1.resources
+D:\AA\projects_C#\Fase4MaycolMuñoz\Fase4MaycolMuñoz\obj\Debug\Fase4MaycolMuñoz.Escenario2.resources
+D:\AA\projects_C#\Fase4MaycolMuñoz\Fase4MaycolMuñoz\obj\Debug\Fase4MaycolMuñoz.Menu.resources

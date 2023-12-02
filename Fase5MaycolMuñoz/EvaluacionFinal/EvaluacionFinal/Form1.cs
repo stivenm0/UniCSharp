@@ -1,0 +1,34 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace EvaluacionFinal
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if(contrasenia.Text == "123")
+            {
+                Menu mn = new Menu();
+                mn.Show();
+                this.Hide();
+            }
+            else
+            {
+                error.Text = "Contraseña Incorrecta";
+            }
+        }
+    }
+}
